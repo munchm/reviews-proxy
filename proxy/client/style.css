@@ -1,0 +1,26 @@
+#reviews {
+  margin-left: 305px;
+  margin-top: -5px;
+  z-index: 0;
+}
+
+#similar-places {
+  margin: auto;
+  display: block;
+  margin-left: 150px;
+  margin-right: auto;
+  /* z-index: -2; */
+
+}
+
+#Homepage {
+  position: absolute;
+  top: 900px;
+  right: 215px;
+  z-index: 1 !important ;
+}
+
+#app {
+  /* position: relative; */
+  z-index: 2;
+}
