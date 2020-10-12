@@ -1,26 +1,22 @@
-#reviews {
-  margin-left: 305px;
-  margin-top: -5px;
-  z-index: 0;
+.reviews {
+  position: relative;
+  transform: translate(100px, 10px);
 }
 
-#similar-places {
+.similar-places {
   margin: auto;
   display: block;
   margin-left: 150px;
   margin-right: auto;
   /* z-index: -2; */
-
 }
 
-#Homepage {
+.Homepage {
   position: absolute;
-  top: 900px;
-  right: 215px;
-  z-index: 1 !important ;
+  transform: translate(-627.5px, 360px) scale(1.41);
 }
 
-#app {
+.app {
   /* position: relative; */
   z-index: 2;
 }
