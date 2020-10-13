@@ -121,6 +121,11 @@ table {
   top: 0;
 }
 
+#homepage {
+  position: absolute;
+  transform: scale(0.2, 0.2);
+}
+
 .reviews {
   grid-column-start: 2;
   width: 200px;
